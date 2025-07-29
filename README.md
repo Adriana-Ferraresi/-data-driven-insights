@@ -1,6 +1,6 @@
 # Mini Projeto: Data-Driven Insights (Módulo 01)
 ## Engenharia de Dados
-## Programa Desenvolve - Grupo Boticário Koru
+## Programa Desenvolve - Grupo Boticário e Koru
 ------------------------------------------------------------------
 
 ### Descrição
